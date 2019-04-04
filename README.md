@@ -1,0 +1,2 @@
+# gitLog2ReleaseNote
+将git记录转化为releaseNote,便于发布前确认文件
